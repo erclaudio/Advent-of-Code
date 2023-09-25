@@ -1,1 +1,2 @@
-For my coursework task I have decided to undertake a challenge from the 2019 advent of code, more exactly the one from day 10. In order to run the first part of the challenge (part1.hs) loading the file and printing answer outputs the correct results. For the second part of the challenge run the file giving it as input the file called (input.in): 'runghc -Wall Part2.hs < input.in'
+# Advent of code 2019 day 10
+Challenge from the 2019 advent of code, day 10. In order to run the first part of the challenge (part1.hs) loading the file and printing answer outputs the correct results. For the second part of the challenge run the file giving it as input the file called (input.in): 'runghc -Wall Part2.hs < input.in'
