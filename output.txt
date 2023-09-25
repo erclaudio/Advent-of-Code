@@ -1,0 +1,2 @@
+part 1: 221
+part 2: 8,6 (806 recognised as right answer on advent of code)
